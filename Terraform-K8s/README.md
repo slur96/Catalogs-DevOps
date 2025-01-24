@@ -1,1 +1,1 @@
-# Provisioning K8s Cluster with Fronted & Backend microservices
+# Provisioning K8s Cluster with Terraform for Frontend, DB & Backend microservices
