@@ -63,5 +63,7 @@ Infracost [Infracost](https://www.infracost.io/) A tool for providing cost estim
 
 Terradocs: [Terradocs](https://terraform-docs.io/) A tool that help you documentate modules `terraform-docs markdown --sort-by-required .`
 
-Checkov:[Checkov](https://www.checkov.io/) A Policy-as-Code that scans cloud infrastructure configurations to find misconfigurations before they're deployed. `checkov -d path\to\terraform-modules\`
+Checkov:[Checkov](https://www.checkov.io/) A Policy-as-Code that scans cloud infrastructure configurations to find misconfigurations before they're deployed. 
+
+`checkov -d path\to\terraform-modules\`
 
